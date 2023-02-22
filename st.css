@@ -1,0 +1,24 @@
+h1{
+   text-align: center;
+   text-decoration: solid;
+   text-decoration-style:arial ;
+   background-color: black;
+   color: pink;
+   
+
+}
+body{
+    background-image: url("bg1.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:white;
+
+}
+table{
+    
+    padding-left: 400px;
+  text-align: center;
+}
+
+   
+   
